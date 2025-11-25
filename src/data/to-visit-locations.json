@@ -1,0 +1,595 @@
+[
+  {
+    "id": 1,
+    "name": "Somnath Jyotirlinga",
+    "lat": 20.888,
+    "lng": 70.4013,
+    "description": "First among the twelve Jyotirlinga shrines of Lord Shiva. Located in Prabhas Patan near Veraval, Gujarat. The temple has been destroyed and rebuilt several times throughout history.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Somnath Temple, Prabhas Patan, Veraval",
+    "state": "Gujarat",
+    "tags": [
+      "Jyotirlinga",
+      "Gujarat",
+      "Shiva",
+      "Coastal",
+      "First Jyotirlinga"
+    ],
+    "notes": "First Jyotirlinga, located on the Arabian Sea coast"
+  },
+  {
+    "id": 3,
+    "name": "Mahakaleshwar Jyotirlinga",
+    "lat": 23.182972,
+    "lng": 75.768185,
+    "description": "Located in the ancient city of Ujjain, Madhya Pradesh. One of the most revered Jyotirlingas, famous for its Bhasma Aarti performed at dawn.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Mahakaleshwar Temple, Ujjain",
+    "state": "Madhya Pradesh",
+    "tags": [
+      "Jyotirlinga",
+      "Madhya Pradesh",
+      "Shiva",
+      "Holy City",
+      "Famous",
+      "Bhasma Aarti"
+    ],
+    "notes": "Famous for unique Bhasma Aarti ritual"
+  },
+  {
+    "id": 4,
+    "name": "Omkareshwar Jyotirlinga",
+    "lat": 22.245439,
+    "lng": 76.151064,
+    "description": "Located on Mandhata Island in the Narmada River, Madhya Pradesh. The island is shaped like the Hindu symbol 'Om'. Two temples exist here - Omkareshwar and Mamaleshwar.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Omkareshwar Temple, Mandhata Island, Narmada River",
+    "state": "Madhya Pradesh",
+    "tags": [
+      "Jyotirlinga",
+      "Madhya Pradesh",
+      "Shiva",
+      "Island",
+      "River",
+      "Om Shape"
+    ],
+    "notes": "Island shaped like Om symbol"
+  },
+  {
+    "id": 6,
+    "name": "Bhimashankar Jyotirlinga",
+    "lat": 19.0734,
+    "lng": 73.5345,
+    "description": "Located in the Sahyadri hills of Maharashtra. The temple is the source of the Bhima river. Surrounded by dense forests and is also a wildlife sanctuary.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Bhimashankar Temple, Bhimashankar Wildlife Sanctuary",
+    "state": "Maharashtra",
+    "tags": [
+      "Jyotirlinga",
+      "Maharashtra",
+      "Shiva",
+      "Mountain",
+      "River",
+      "Forest",
+      "Wildlife"
+    ],
+    "notes": "Source of Bhima river, wildlife sanctuary nearby"
+  },
+  {
+    "id": 7,
+    "name": "Kashi Vishwanath Jyotirlinga",
+    "lat": 25.3109,
+    "lng": 83.0107,
+    "description": "Located in Varanasi, Uttar Pradesh on the banks of the Ganges River. One of the most sacred Hindu temples. The temple has been mentioned in ancient Hindu scriptures.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Kashi Vishwanath Temple, Varanasi",
+    "state": "Uttar Pradesh",
+    "tags": [
+      "Jyotirlinga",
+      "Uttar Pradesh",
+      "Shiva",
+      "Holy City",
+      "Famous",
+      "Ganges",
+      "Ancient"
+    ],
+    "notes": "Most sacred Jyotirlinga, located in the holiest city"
+  },
+  {
+    "id": 9,
+    "name": "Baidyanath Jyotirlinga",
+    "lat": 24.4894,
+    "lng": 86.7029,
+    "description": "Located in Deoghar, Jharkhand. Also known as Baba Baidyanath Dham. One of the most sacred pilgrimage sites for Hindus. The temple complex has 21 other temples.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Baidyanath Dham Temple Complex, Deoghar",
+    "state": "Jharkhand",
+    "tags": [
+      "Jyotirlinga",
+      "Jharkhand",
+      "Shiva",
+      "Temple Complex"
+    ],
+    "notes": "Also called Baidyanath Dham, 22 temples in complex"
+  },
+  {
+    "id": 10,
+    "name": "Nageshwar Jyotirlinga",
+    "lat": 22.244272,
+    "lng": 68.968478,
+    "description": "Located near Dwarka in Gujarat, between Gomti Dwarka and the Bet Dwarka island. The temple houses a 25-meter tall statue of Lord Shiva.",
+    "status": "to-visit",
+    "category": "Jyotirlinga",
+    "location": "Nageshwar Temple, Dwarka",
+    "state": "Gujarat",
+    "tags": [
+      "Jyotirlinga",
+      "Gujarat",
+      "Shiva",
+      "Coastal",
+      "Giant Statue"
+    ],
+    "notes": "Near Dwarka, features 25m tall Shiva statue"
+  },
+  {
+    "id": 13,
+    "name": "Amarnath Shakti Peeth",
+    "lat": 34.215635,
+    "lng": 75.50383,
+    "description": "Sacred cave shrine in Jammu & Kashmir. Throat of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Amarnath Cave Temple, Pahalgam",
+    "state": "Jammu & Kashmir",
+    "tags": [
+      "Shakti Peetha",
+      "Jammu & Kashmir",
+      "Shakti",
+      "Cave",
+      "High Altitude",
+      "Himalayan"
+    ],
+    "bodyPart": "Throat",
+    "notes": "Sacred ice lingam cave, pilgrimage only in summer"
+  },
+  {
+    "id": 14,
+    "name": "Jwala Devi Shakti Peeth",
+    "lat": 31.8743,
+    "lng": 76.3209,
+    "description": "Temple in Kangra, Himachal Pradesh. Tongue of Goddess Sati fell here. Famous for eternal flames.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Jwala Devi Temple, Kangra",
+    "state": "Himachal Pradesh",
+    "tags": [
+      "Shakti Peetha",
+      "Himachal Pradesh",
+      "Shakti",
+      "Eternal Flame",
+      "Famous"
+    ],
+    "bodyPart": "Tongue",
+    "notes": "Eternal flames burning without any fuel"
+  },
+  {
+    "id": 16,
+    "name": "Vishalakshi Shakti Peeth",
+    "lat": 25.3108,
+    "lng": 83.0098,
+    "description": "Temple in Varanasi, Uttar Pradesh. Earrings/Eyes of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Vishalakshi Temple, Mir Ghat, Varanasi",
+    "state": "Uttar Pradesh",
+    "tags": [
+      "Shakti Peetha",
+      "Uttar Pradesh",
+      "Shakti",
+      "Holy City",
+      "Ganges"
+    ],
+    "bodyPart": "Earrings / Eyes",
+    "notes": "Located in the holiest city Varanasi"
+  },
+  {
+    "id": 17,
+    "name": "Lalita Shakti Peeth",
+    "lat": 25.422696,
+    "lng": 81.828193,
+    "description": "Temple in Prayagraj (Allahabad), Uttar Pradesh. Fingers of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Lalita Devi Temple, Sangam, Prayagraj",
+    "state": "Uttar Pradesh",
+    "tags": [
+      "Shakti Peetha",
+      "Uttar Pradesh",
+      "Shakti",
+      "Holy City",
+      "Sangam"
+    ],
+    "bodyPart": "Fingers",
+    "notes": "At the sacred confluence of three rivers"
+  },
+  {
+    "id": 28,
+    "name": "Kalighat Shakti Peeth",
+    "lat": 22.520211,
+    "lng": 88.34206,
+    "description": "Famous temple in Kolkata, West Bengal. Right Toes of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Kalighat Temple, Kolkata",
+    "state": "West Bengal",
+    "tags": [
+      "Shakti Peetha",
+      "West Bengal",
+      "Shakti",
+      "Famous",
+      "Kali",
+      "Metropolitan"
+    ],
+    "bodyPart": "Right Toes",
+    "notes": "Most famous Kali temple in Kolkata"
+  },
+  {
+    "id": 33,
+    "name": "Mahalakshmi Shakti Peeth",
+    "lat": 16.694858,
+    "lng": 74.222895,
+    "description": "Famous temple in Kolhapur, Maharashtra. Eyes of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Mahalakshmi Temple, Kolhapur",
+    "state": "Maharashtra",
+    "tags": [
+      "Shakti Peetha",
+      "Maharashtra",
+      "Shakti",
+      "Famous"
+    ],
+    "bodyPart": "Eyes",
+    "notes": "Famous Mahalakshmi Temple"
+  },
+  {
+    "id": 36,
+    "name": "Ambaji Shakti Peeth",
+    "lat": 24.335728,
+    "lng": 72.849742,
+    "description": "Temple in Gujarat. Heart of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Ambaji Temple, Ambaji",
+    "state": "Gujarat",
+    "tags": [
+      "Shakti Peetha",
+      "Gujarat",
+      "Shakti",
+      "Famous",
+      "Mountain"
+    ],
+    "bodyPart": "Heart",
+    "notes": "Famous Ambaji Temple"
+  },
+  {
+    "id": 37,
+    "name": "Kamakhya Shakti Peeth",
+    "lat": 26.1669,
+    "lng": 91.7065,
+    "description": "Most important Shakti Peetha in Guwahati, Assam. Genital organ (Yoni) of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Kamakhya Temple, Nilachal Hill, Guwahati",
+    "state": "Assam",
+    "tags": [
+      "Shakti Peetha",
+      "Assam",
+      "Shakti",
+      "Famous",
+      "Northeast",
+      "Most Important"
+    ],
+    "bodyPart": "Genital organ (Yoni)",
+    "notes": "Most important Shakti Peetha, Nilachal Hill"
+  },
+  {
+    "id": 39,
+    "name": "Tripura Sundari Shakti Peeth",
+    "lat": 23.509072,
+    "lng": 91.498282,
+    "description": "Temple in Udaipur, Tripura. Right Foot of Goddess Sati fell here.",
+    "status": "to-visit",
+    "category": "Shakti Peetha",
+    "location": "Tripura Sundari Temple, Matabari, Udaipur",
+    "state": "Tripura",
+    "tags": [
+      "Shakti Peetha",
+      "Tripura",
+      "Shakti",
+      "Northeast",
+      "Famous"
+    ],
+    "bodyPart": "Right Foot",
+    "notes": "Tripura Sundari Temple, Matabari"
+  },
+  {
+    "id": 71,
+    "name": "Padmanabhaswamy Temple",
+    "lat": 8.483333,
+    "lng": 76.950000,
+    "description": "Ancient temple dedicated to Lord Vishnu in Thiruvananthapuram, Kerala. One of the 108 Divya Desams. Known for its Dravidian architecture and being one of the richest temples in the world.",
+    "status": "to-visit",
+    "category": "Famous Temple",
+    "location": "Padmanabhaswamy Temple, Thiruvananthapuram",
+    "state": "Kerala",
+    "tags": [
+      "Famous Temple",
+      "Kerala",
+      "Vishnu",
+      "Padmanabha",
+      "Divya Desam",
+      "Ancient",
+      "Dravidian Architecture"
+    ],
+    "notes": "108 Divya Desams, famous for hidden treasures"
+  },
+  {
+    "id": 72,
+    "name": "Bhagavathy Amman Temple",
+    "lat": 8.087778,
+    "lng": 77.554167,
+    "description": "Temple dedicated to Goddess Kumari Amman (Bhagavathy) at the southernmost tip of India in Kanyakumari. Located where three seas meet - Arabian Sea, Bay of Bengal, and Indian Ocean.",
+    "status": "to-visit",
+    "category": "Famous Temple",
+    "location": "Bhagavathy Amman Temple, Kanyakumari",
+    "state": "Tamil Nadu",
+    "tags": [
+      "Famous Temple",
+      "Tamil Nadu",
+      "Shakti",
+      "Kanyakumari",
+      "Coastal",
+      "Southernmost Point",
+      "Three Seas"
+    ],
+    "notes": "Southernmost tip of India, where three seas meet"
+  },
+  {
+    "id": 73,
+    "name": "Jatayu Earth's Center",
+    "lat": 8.8658853,
+    "lng": 76.8672619,
+    "description": "Nature park and tourist attraction featuring the world's largest bird sculpture of Jatayu from the Ramayana epic. The sculpture is 200 feet long, 150 feet wide, and 70 feet tall, built on a rock at 1000 feet above sea level.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Jatayu Earth's Center, Chadayamangalam, Kollam",
+    "state": "Kerala",
+    "tags": [
+      "Tourist Attraction",
+      "Kerala",
+      "Ramayana",
+      "Adventure",
+      "Nature Park",
+      "World's Largest",
+      "Sculpture"
+    ],
+    "notes": "World's largest bird sculpture, adventure activities, Ramayana connection"
+  },
+  {
+    "id": 74,
+    "name": "Ooty (Udhagamandalam)",
+    "lat": 11.4102,
+    "lng": 76.6950,
+    "description": "Popular hill station in the Nilgiri Hills of Tamil Nadu, known as the 'Queen of Hill Stations'. Famous for tea gardens, botanical gardens, Nilgiri Mountain Railway (UNESCO Heritage), and pleasant climate year-round.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Ooty, Nilgiris District",
+    "state": "Tamil Nadu",
+    "tags": [
+      "Tourist Attraction",
+      "Tamil Nadu",
+      "Hill Station",
+      "Tea Gardens",
+      "UNESCO Heritage",
+      "Mountain",
+      "Nature"
+    ],
+    "notes": "Queen of Hill Stations, Nilgiri Mountain Railway, tea plantations"
+  },
+  {
+    "id": 75,
+    "name": "Kodaikanal",
+    "lat": 10.2391086,
+    "lng": 77.4977456,
+    "description": "Scenic hill station in the Palani Hills of Tamil Nadu, known as the 'Princess of Hill Stations'. Famous for Kodai Lake, Coaker's Walk, Bryant Park, and misty valleys. Popular for honeymooners and nature lovers.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Kodaikanal, Dindigul District",
+    "state": "Tamil Nadu",
+    "tags": [
+      "Tourist Attraction",
+      "Tamil Nadu",
+      "Hill Station",
+      "Lake",
+      "Mountain",
+      "Nature",
+      "Scenic"
+    ],
+    "notes": "Princess of Hill Stations, Kodai Lake, misty valleys"
+  },
+  {
+    "id": 77,
+    "name": "Taj Mahal",
+    "lat": 27.1751448,
+    "lng": 78.0421422,
+    "description": "UNESCO World Heritage Site and one of the Seven Wonders of the World. Iconic ivory-white marble mausoleum built by Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. Masterpiece of Mughal architecture.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Taj Mahal, Agra",
+    "state": "Uttar Pradesh",
+    "tags": [
+      "Tourist Attraction",
+      "Uttar Pradesh",
+      "UNESCO Heritage",
+      "Seven Wonders",
+      "Mughal Architecture",
+      "Monument",
+      "Historic"
+    ],
+    "notes": "Seven Wonders of the World, symbol of love, Mughal masterpiece"
+  },
+  {
+    "id": 78,
+    "name": "Virupaksha Temple",
+    "lat": 15.3351333,
+    "lng": 76.4586529,
+    "description": "Ancient temple dedicated to Lord Shiva in Hampi, Karnataka. Part of the UNESCO World Heritage Site of Hampi. One of the oldest functioning temples in India, built in the 7th century. Located in the ruins of Vijayanagara Empire.",
+    "status": "to-visit",
+    "category": "Famous Temple",
+    "location": "Virupaksha Temple, Hampi",
+    "state": "Karnataka",
+    "tags": [
+      "Famous Temple",
+      "Karnataka",
+      "Shiva",
+      "UNESCO Heritage",
+      "Ancient",
+      "Historic",
+      "Vijayanagara Empire"
+    ],
+    "notes": "UNESCO World Heritage Site, oldest functioning temple in India, Hampi ruins"
+  },
+  {
+    "id": 79,
+    "name": "Chamundeshwari Temple",
+    "lat": 12.2725072,
+    "lng": 76.6707214,
+    "description": "Famous Hindu temple dedicated to Goddess Chamundeshwari (form of Durga) located atop Chamundi Hills in Mysuru, Karnataka. One of the 18 Shakti Peethas. The temple offers panoramic views of Mysuru city.",
+    "status": "to-visit",
+    "category": "Famous Temple",
+    "location": "Chamundeshwari Temple, Chamundi Hills, Mysuru",
+    "state": "Karnataka",
+    "tags": [
+      "Famous Temple",
+      "Karnataka",
+      "Shakti",
+      "Durga",
+      "Shakti Peetha",
+      "Hill Temple",
+      "Mysuru"
+    ],
+    "notes": "One of 18 Shakti Peethas, atop Chamundi Hills with panoramic city views"
+  },
+  {
+    "id": 80,
+    "name": "Madikeri (Coorg)",
+    "lat": 12.4244205,
+    "lng": 75.7381856,
+    "description": "Scenic hill station and district headquarters of Coorg (Kodagu) in Karnataka. Known as the 'Scotland of India', famous for coffee plantations, misty hills, waterfalls like Abbey Falls, and lush green landscapes. Popular for nature lovers and adventure seekers.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Madikeri, Coorg District",
+    "state": "Karnataka",
+    "tags": [
+      "Tourist Attraction",
+      "Karnataka",
+      "Hill Station",
+      "Coorg",
+      "Coffee Plantations",
+      "Nature",
+      "Waterfalls",
+      "Scenic"
+    ],
+    "notes": "Scotland of India, coffee plantations, Abbey Falls, misty hills"
+  },
+  {
+    "id": 81,
+    "name": "Kedareshwara Temple",
+    "lat": 13.2088828,
+    "lng": 75.9986591,
+    "description": "Ancient Hindu temple in Halebeedu, Karnataka, dedicated to Lord Shiva. Built during the Hoysala Empire in the 12th century. Known for exquisite Hoysala architecture with intricate stone carvings and sculptures. Part of the UNESCO World Heritage Site nomination.",
+    "status": "to-visit",
+    "category": "Famous Temple",
+    "location": "Kedareshwara Temple, Halebeedu",
+    "state": "Karnataka",
+    "tags": [
+      "Famous Temple",
+      "Karnataka",
+      "Shiva",
+      "Hoysala Architecture",
+      "Ancient",
+      "Historic",
+      "UNESCO Heritage"
+    ],
+    "notes": "12th century Hoysala temple, intricate stone carvings, UNESCO nomination"
+  },
+  {
+    "id": 85,
+    "name": "Jog Falls",
+    "lat": 14.226635,
+    "lng": 74.8073345,
+    "description": "India's second-highest plunge waterfall located in Shimoga district, Karnataka. The waterfall has four distinct cascades: Raja, Rani, Rover, and Rocket. Falls from a height of 253 meters (830 feet). Best visited during monsoon season.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Jog Falls, Shimoga District",
+    "state": "Karnataka",
+    "tags": [
+      "Tourist Attraction",
+      "Karnataka",
+      "Waterfall",
+      "Nature",
+      "Scenic",
+      "Adventure"
+    ],
+    "notes": "Second-highest plunge waterfall in India, 253m height, four cascades"
+  },
+  {
+    "id": 87,
+    "name": "Bannerghatta Biological Park",
+    "lat": 12.7985882,
+    "lng": 77.567835,
+    "description": "Popular biological park and zoo located near Bangalore, Karnataka. Spread over 104 sq km, features safari parks (lion, tiger, bear), butterfly park, aquarium, and rescue center. Great destination for wildlife enthusiasts and families.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Bannerghatta Biological Park, Bangalore",
+    "state": "Karnataka",
+    "tags": [
+      "Tourist Attraction",
+      "Karnataka",
+      "Zoo",
+      "Wildlife",
+      "Safari",
+      "Nature",
+      "Family"
+    ],
+    "notes": "Safari parks, butterfly park, aquarium, wildlife rescue center"
+  },
+  {
+    "id": 88,
+    "name": "Shivagange",
+    "lat": 13.1697152,
+    "lng": 77.2228706,
+    "description": "Popular trekking destination and pilgrimage site near Bangalore, Karnataka. Hill shaped like a Shiva Linga, features ancient temples, natural spring (Ganga), and caves. Known for challenging rock climbing and stunning sunrise views.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Shivagange, Tumkur District",
+    "state": "Karnataka",
+    "tags": [
+      "Tourist Attraction",
+      "Karnataka",
+      "Trekking",
+      "Hill Station",
+      "Pilgrimage",
+      "Adventure",
+      "Shiva"
+    ],
+    "notes": "Shiva Linga shaped hill, trekking, rock climbing, natural spring"
+  }
+]

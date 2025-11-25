@@ -1,0 +1,45 @@
+[
+  {
+    "id": 2,
+    "name": "Mallikarjuna Jyotirlinga",
+    "lat": 16.0736,
+    "lng": 78.8682,
+    "description": "Located on the Srisailam mountain in Andhra Pradesh, on the banks of Krishna River. One of the 12 Jyotirlingas and also a Shakti Peetha.",
+    "status": "re-visit",
+    "category": "Jyotirlinga",
+    "location": "Srisailam Temple Complex, Srisailam",
+    "state": "Andhra Pradesh",
+    "tags": [
+      "Jyotirlinga",
+      "Andhra Pradesh",
+      "Shiva",
+      "Mountain",
+      "River",
+      "Shakti Peetha"
+    ],
+    "lastVisitDate": "2024-03-15",
+    "notes": "Also known as Sri Bhramaramba Mallikarjuna Temple"
+  },
+  {
+    "id": 70,
+    "name": "Tirumala Venkateswara Temple",
+    "lat": 13.683333,
+    "lng": 79.347222,
+    "description": "One of the most visited and richest temples in the world, dedicated to Lord Venkateswara (Vishnu). Located on Tirumala hills in Tirupati. Famous for Laddu prasadam and ancient traditions.",
+    "status": "re-visit",
+    "category": "Famous Temple",
+    "location": "Tirumala Venkateswara Temple, Tirupati",
+    "state": "Andhra Pradesh",
+    "tags": [
+      "Famous Temple",
+      "Andhra Pradesh",
+      "Vishnu",
+      "Venkateswara",
+      "Pilgrimage",
+      "Mountain",
+      "Most Visited"
+    ],
+    "lastVisitDate": "2024-11-24",
+    "notes": "Richest temple in the world, famous Laddu prasadam"
+  }
+]
