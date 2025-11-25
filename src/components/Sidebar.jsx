@@ -114,6 +114,25 @@ const Sidebar = ({
                selectedLocation.status === 're-visit' ? '↻ Re-visit' : '☆ To Visit'}
             </div>
 
+            {selectedLocation.images && selectedLocation.images.length > 0 && (
+              <div className="detail-section">
+                <h3>Photos</h3>
+                <div className="image-gallery">
+                  {selectedLocation.images.map((imageUrl, index) => (
+                    <img
+                      key={index}
+                      src={imageUrl}
+                      alt={`${selectedLocation.name} - Photo ${index + 1}`}
+                      className="location-image"
+                      onError={(e) => {
+                        e.target.style.display = 'none';
+                      }}
+                    />
+                  ))}
+                </div>
+              </div>
+            )}
+
             <div className="detail-section">
               <h3>Description</h3>
               <p>{selectedLocation.description}</p>
