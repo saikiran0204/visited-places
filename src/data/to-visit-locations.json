@@ -591,5 +591,27 @@
       "Shiva"
     ],
     "notes": "Shiva Linga shaped hill, trekking, rock climbing, natural spring"
+  },
+  {
+    "id": 89,
+    "name": "Mysuru Palace",
+    "lat": 12.305163,
+    "lng": 76.6551749,
+    "description": "Also known as Amba Vilas Palace, it is a historical palace and royal residence in Mysuru, Karnataka. One of the most visited monuments in India, famous for its Indo-Saracenic architecture. The palace is illuminated on Sundays and during festivals with nearly 100,000 light bulbs.",
+    "status": "to-visit",
+    "category": "Tourist Attraction",
+    "location": "Mysuru Palace, Mysuru",
+    "state": "Karnataka",
+    "tags": [
+      "Tourist Attraction",
+      "Karnataka",
+      "Palace",
+      "Historic",
+      "Architecture",
+      "Mysuru",
+      "Royal",
+      "Famous"
+    ],
+    "notes": "Amba Vilas Palace, Indo-Saracenic architecture, illuminated with 100,000 lights"
   }
 ]
